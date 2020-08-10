@@ -1,4 +1,4 @@
-# Steps to run the codde
+# Steps to run the code
 
 ## Step 1:
 
