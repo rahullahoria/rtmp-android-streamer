@@ -6,7 +6,7 @@
     android:background="@color/black"
     >
 
-  <com.pedro.rtplibrary.view.AutoFitTextureView
+  <com.mogiio.rtplibrary.view.AutoFitTextureView
       android:id="@+id/textureView"
       android:layout_width="match_parent"
       android:layout_height="match_parent"
